@@ -115,3 +115,4 @@ else:
     print(hangman[-1])
     print("Game Over !!!")
     print("The fruit was: ", word)
+    
